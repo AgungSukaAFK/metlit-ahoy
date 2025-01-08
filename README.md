@@ -1,2 +1,2 @@
 # metlit-ahoy
-Repository sakral untuk mengelola laporan observasi metlit
+Repository sakral untuk mengelola laporan penelitian metlit
